@@ -11,3 +11,6 @@ TinDog is a fun, parody website based on the concept of the popular dating app, 
 - HTML5
 - CSS3
 - Bootstrap
+
+## Screenshots
+<img src="https://i.postimg.cc/1zKJSrm0/Tin-Dog-screenshot.png" alt="Tindog Website Screenshot" width="800"/>
